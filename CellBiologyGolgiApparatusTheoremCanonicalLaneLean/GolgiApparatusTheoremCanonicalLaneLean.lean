@@ -1,0 +1,13 @@
+import CellBiologyGolgiApparatusTheoremCanonicalLaneLean.GolgiApparatusAdmissibleClass
+import CellBiologyGolgiApparatusTheoremCanonicalLaneLean.VesicleTransportBridge
+import CellBiologyGolgiApparatusTheoremCanonicalLaneLean.GateLemmas
+import CellBiologyGolgiApparatusTheoremCanonicalLaneLean.FinalTheorem
+
+-- Root module for Cell Biology Golgi Apparatus Theorem Canonical Lane Lean
+namespace HautevilleHouse
+namespace CellBiologyGolgiApparatusTheoremCanonicalLaneLean
+
+-- Placeholder for further module imports
+
+end CellBiologyGolgiApparatusTheoremCanonicalLaneLean
+end HautevilleHouse
